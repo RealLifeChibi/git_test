@@ -1,1 +1,1 @@
-This is my first repo on my git hub. This is teaching me how to use Git for version control.
+This is my first repo on my git hub. This is teaching me how to use Git for version control also I installed WSL using Ubuntu because why not.
